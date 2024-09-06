@@ -1,0 +1,37 @@
+.quadro{
+    height: 30rem;
+   
+    width: 30rem;
+   
+    background-color: rgb(79, 13, 82);
+    
+    text-align: center;
+
+    color:rgb(163, 165, 42);
+
+    line-height: 30rem;
+
+    font-size:1.3rem ;
+
+    font-family: Arial,helvetica,sans-serif;
+
+}
+table {
+    margin-top: 30px;   
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+
